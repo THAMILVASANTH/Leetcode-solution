@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -12,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0204-count-primes) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
@@ -26,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
