@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
