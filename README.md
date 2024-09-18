@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0204-count-primes) |
 | [0377-combination-sum-iv](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0377-combination-sum-iv) |
 | [0539-minimum-time-difference](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0539-minimum-time-difference) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
 |  |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1908-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
