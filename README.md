@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## String
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0377-combination-sum-iv](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0377-combination-sum-iv) |
 ## Counting
 |  |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
