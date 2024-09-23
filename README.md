@@ -128,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
