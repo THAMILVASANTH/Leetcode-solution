@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0204-count-primes) |
 | [0377-combination-sum-iv](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0377-combination-sum-iv) |
 | [0539-minimum-time-difference](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0909-stone-game](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0909-stone-game) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0729-my-calendar-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0729-my-calendar-i) |
 ## Queue
 |  |
 | ------- |
@@ -160,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0909-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
