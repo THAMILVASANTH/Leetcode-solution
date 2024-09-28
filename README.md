@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0859-design-circular-deque) |
 | [0909-stone-game](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0909-stone-game) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0859-design-circular-deque) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -157,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0729-my-calendar-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0859-design-circular-deque](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0859-design-circular-deque) |
 ## Game Theory
 |  |
 | ------- |
