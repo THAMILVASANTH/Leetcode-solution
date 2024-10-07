@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0443-string-compression](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
