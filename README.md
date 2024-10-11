@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2755-extra-characters-in-a-string](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Depth-First Search
 |  |
 | ------- |
