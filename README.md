@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Bucket Sort
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1036-rotting-oranges) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
