@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1002-maximum-width-ramp) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
