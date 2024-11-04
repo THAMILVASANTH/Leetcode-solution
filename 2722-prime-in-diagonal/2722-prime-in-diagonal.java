@@ -1,35 +1,29 @@
 class Solution {
     public int diagonalPrime(int[][] nums) {
-        
-        int ans=Integer.MIN_VALUE;
-        for(int i=0;i<nums.length;i++){
-            boolean bool=true;
-            if(nums[i][i]==0 || nums[i][i]==1 )
-                bool=false;
-            for(int k=2;k<=Math.sqrt(nums[i][i]);k++){
-                if(nums[i][i]%k==0){
-                    bool=false;
-                    break;
-                }
-            }
-            if(bool==true)
-                ans=Math.max(ans,nums[i][i]);
+        int n = nums.length;
+            int largestPrime = 0;
 
-            
-            boolean bool2=true;
-            int b=nums[i][nums.length - i - 1];
-            if(nums[i][nums.length - i - 1]==0 || nums[i][nums.length - i - 1]==1)
-            bool2=false;
-            for(int k=2;k<=Math.sqrt(b);k++){
-                if(b%k==0){
-                    bool2=false;
-                    break;
+            for (int i = 0; i < n; i++) {
+                if (isPrime(nums[i][i])) {
+                    largestPrime = Math.max(largestPrime, nums[i][i]);
+                }
+
+
+                if (isPrime(nums[i][n - i - 1])) {
+                    largestPrime = Math.max(largestPrime, nums[i][n - i - 1]);
                 }
             }
-            if(bool2==true){
-                ans=Math.max(ans,b);
-            }
-        }
-        return ans==Integer.MIN_VALUE?0:ans;
+
+            return largestPrime;
     }
+    public static boolean isPrime(int num) {
+            if (num <= 1) return false;
+            if (num <= 3) return true;
+            if (num % 2 == 0 || num % 3 == 0) return false;
+
+            for (int i = 5; i * i <= num; i += 6) {
+                if (num % i == 0 || num % (i + 2) == 0) return false;
+            }
+            return true;
+        }
 }
