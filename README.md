@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2722-prime-in-diagonal) |
 | [2755-extra-characters-in-a-string](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Database
 |  |
 | ------- |
