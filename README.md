@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0909-stone-game) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2722-prime-in-diagonal](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2722-prime-in-diagonal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0201-bitwise-and-of-numbers-range) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
