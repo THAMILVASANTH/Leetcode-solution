@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
