@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1940-maximum-xor-for-each-query](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2089-maximum-matrix-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1940-maximum-xor-for-each-query](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Brainteaser
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0731-my-calendar-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
