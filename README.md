@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0258-add-digits) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2089-maximum-matrix-sum) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1036-rotting-oranges](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1036-rotting-oranges) |
 | [2089-maximum-matrix-sum](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2089-maximum-matrix-sum) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2722-prime-in-diagonal](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2722-prime-in-diagonal) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sliding Window
