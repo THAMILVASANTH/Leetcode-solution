@@ -387,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
