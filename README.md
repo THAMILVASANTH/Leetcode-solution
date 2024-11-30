@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0988-flip-equivalent-binary-trees) |
+| [2201-valid-arrangement-of-pairs](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
@@ -394,10 +395,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3189-find-champion-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
