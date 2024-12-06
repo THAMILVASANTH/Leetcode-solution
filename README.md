@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2722-prime-in-diagonal) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2755-extra-characters-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3195-separate-black-and-white-balls) |
 ## Recursion
 |  |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Segment Tree
 |  |
 | ------- |
