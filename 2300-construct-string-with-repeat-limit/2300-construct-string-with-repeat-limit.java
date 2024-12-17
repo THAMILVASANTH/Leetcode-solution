@@ -1,49 +1,30 @@
 class Solution {
     public String repeatLimitedString(String s, int repeatLimit) {
-        Map<Character,Integer> map=new TreeMap<>(Collections.reverseOrder());
-        for(int i=0;i<s.length();i++){
-            map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
+        int[] cnt = new int[26];
+        for (int i = 0; i < s.length(); ++i) {
+            ++cnt[s.charAt(i) - 'a'];
         }
-        List<Character> list=new ArrayList<>();
-        for(Character i : map.keySet()){
-            list.add(i);
-        }
-        StringBuilder stb=new StringBuilder();
-        while(!list.isEmpty()){
-            char ch = list.get(0);
-            int val=map.get(ch);
-            if(val>=repeatLimit){
-                for(int i=0;i<repeatLimit;i++){
-                    stb.append(ch);
+        StringBuilder ans = new StringBuilder();
+        for (int i = 25, j = 24; i >= 0; --i) {
+            j = Math.min(j, i - 1);
+            while (true) {
+                for (int k = Math.min(cnt[i], repeatLimit); k > 0; --k) {
+                    ans.append((char) ('a' + i));
+                    --cnt[i];
                 }
-                map.put(ch,val-repeatLimit);
-                if(map.get(ch)==0){
-                    map.remove(ch);
-                    list.remove(0);
+                if (cnt[i] == 0) {
+                    break;
                 }
-                else{
-                    if(list.size()>1){
-                        char ch2=list.get(1);
-                        stb.append(ch2);
-                        map.put(ch2,map.get(ch2)-1);
-                        if(map.get(ch2)==0){
-                            map.remove(ch2);
-                            list.remove(1);
-                        }
-                    }
-                    else{
-                        break;
-                    }
+                while (j >= 0 && cnt[j] == 0) {
+                    --j;
                 }
-            }
-            else{
-                for(int i=0;i<val;i++){
-                    stb.append(ch);
+                if (j < 0) {
+                    break;
                 }
-                map.remove(ch);
-                list.remove(0);
+                ans.append((char) ('a' + j));
+                --cnt[j];
             }
         }
-        return stb.toString();
+        return ans.toString();
     }
 }
