@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1755-defuse-the-bomb) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Breadth-First Search
 |  |
 | ------- |
