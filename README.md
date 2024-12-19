@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0859-design-circular-deque) |
 | [0909-stone-game](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0909-stone-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2554-minimum-total-distance-traveled) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Breadth-First Search
