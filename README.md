@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [2201-valid-arrangement-of-pairs](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1036-rotting-oranges) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
