@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0729-my-calendar-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0264-ugly-number-ii) |
 | [0377-combination-sum-iv](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0494-target-sum) |
 | [0909-stone-game](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0909-stone-game) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/2554-minimum-total-distance-traveled) |
@@ -485,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
