@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0859-design-circular-deque) |
 | [0909-stone-game](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0909-stone-game) |
 | [1002-maximum-width-ramp](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1256-rank-transform-of-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0909-stone-game](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0909-stone-game) |
+| [1025-minimum-cost-for-tickets](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
