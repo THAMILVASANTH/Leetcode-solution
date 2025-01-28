@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0227-basic-calculator-ii) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/THAMILVASANTH/Leetcode-solution/tree/master/0908-middle-of-the-linked-list) |
